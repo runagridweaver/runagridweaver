@@ -1,6 +1,6 @@
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,github,linux,markdown,git,wordpress,discord,gmail,html,ai,instagram,linkedin,pycharm,pytorch,raspberrypi,tensorflow,ubuntu,redhat,windows,vscode,twitter,unity,debian,bash,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,github,linux,aws,markdown,qt,arch,git,emacs,kali,gtk,gmail,html,latex,ai,java,pycharm,pytorch,raspberrypi,tensorflow,ubuntu,go,redhat,windows,vscode,c,cs,cpp,rust,perl,bsd,vim,unreal,bots,docker,mint,unity,nodjs,debian,bash,cmake,azure)](https://skillicons.dev)
 
 ## Links
 
